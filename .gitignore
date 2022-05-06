@@ -1,0 +1,23 @@
+build/
+.vscode/
+
+# object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+#CMake
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+install_manifest.txt
