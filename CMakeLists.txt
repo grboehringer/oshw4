@@ -12,6 +12,6 @@ include_directories(include)
 # Add libraries
 
 # openmp executable
-add_executable(openmp src/3way-openmp/openmp)
+add_executable(openmp src/3way_openmp/openmp.c)
 
 # link libraries 

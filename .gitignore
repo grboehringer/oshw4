@@ -15,7 +15,7 @@ build/
 *.x86_64
 *.hex
 
-#CMake
+# CMake
 CMakeCache.txt
 CMakeFiles
 Makefile
